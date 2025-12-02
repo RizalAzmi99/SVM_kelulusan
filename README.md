@@ -64,11 +64,9 @@ Berdasarkan hasil training, berikut adalah performa model terbaik:
 ## 🚀 Cara Menjalankan Notebook
 1.  Clone repository ini:
     ```bash
-    git clone [LINK GITHUB KAMU]
+    git clone https://github.com/RizalAzmi99/SVM_kelulusan.git
     ```
 2.  Buka file `SVM_kelulusan.ipynb` menggunakan Google Colab atau Jupyter Notebook.
 3.  Pastikan file dataset `datakelulusanmahasiswa.csv` berada satu folder dengan notebook.
 4.  Jalankan setiap sel ("Run All") untuk melihat hasil prediksi.
 
----
-**Dibuat untuk memenuhi Tugas Project Machine Learning (100 Menit).**
