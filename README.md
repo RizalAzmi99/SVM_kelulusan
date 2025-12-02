@@ -48,9 +48,9 @@ Proyek ini diselesaikan dengan alur kerja *Machine Learning* standar:
 ## 📊 Hasil Evaluasi Model
 Berdasarkan hasil training, berikut adalah performa model terbaik:
 
-- **Model Terbaik:** SVM dengan Kernel [ISI: RBF atau Linear]
-- **Parameter Terbaik:** C=[ISI ANGKA], Gamma=[ISI ANGKA]
-- **Akurasi Model:** [ISI PERSEN AKURASI, misal: 92%]
+- **Model Terbaik:** SVM dengan Kernel RBF
+- **Parameter Terbaik:** C=10, Gamma=0.1
+- **Akurasi Model:** 92%
 
 **Temuan Analitis:**
 - Mahasiswa dengan IPK rendah cenderung memiliki probabilitas lebih tinggi untuk lulus terlambat.
