@@ -1,8 +1,8 @@
 # Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)
 
 ## 📌 Identitas Mahasiswa
-**Nama:** [ISI NAMA LENGKAP KAMU]  
-**NIM:** [ISI NIM KAMU]  
+**Nama:** Muhammad Rizal Azmi  
+**NPM:** 2457201002412  
 **Kelas/Mata Kuliah:** Machine Learning
 
 ---
