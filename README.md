@@ -56,7 +56,8 @@ Berdasarkan hasil training, berikut adalah performa model terbaik:
 - Mahasiswa dengan IPK rendah cenderung memiliki probabilitas lebih tinggi untuk lulus terlambat.
 - Fitur akademik (IPK/IPS) memiliki pengaruh paling dominan dibandingkan fitur demografis.
 
-*(Sertakan Screenshot Confusion Matrix di sini jika ada)*
+<img width="1030" height="796" alt="image" src="https://github.com/user-attachments/assets/dcc08386-0a6c-4ac7-8713-b487c2f3f942" />
+
 
 ---
 
